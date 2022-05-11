@@ -135,6 +135,17 @@
 				</UsualGroup>
 			</ChildItems>
 		</UsualGroup>
+		<CheckBoxField name="РазрешитьПолнотекстовыйПоиск1" id="27">
+			<DataPath>РазрешитьПолнотекстовыйПоиск</DataPath>
+			<CheckBoxType>Auto</CheckBoxType>
+			<ContextMenu name="РазрешитьПолнотекстовыйПоиск1КонтекстноеМеню" id="28"/>
+			<ExtendedTooltip name="РазрешитьПолнотекстовыйПоиск1РасширеннаяПодсказка" id="29"/>
+		</CheckBoxField>
+		<LabelField name="СтатусИндекса1" id="30">
+			<DataPath>СтатусИндекса</DataPath>
+			<ContextMenu name="СтатусИндекса1КонтекстноеМеню" id="31"/>
+			<ExtendedTooltip name="СтатусИндекса1РасширеннаяПодсказка" id="32"/>
+		</LabelField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">
